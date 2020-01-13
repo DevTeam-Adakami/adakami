@@ -1,0 +1,65 @@
+Rev-001 -- 09/11/2019 -- 
+====================================================================================
+grid table separation lines need to be removed -- DONE
+grid table must have margin on left right -- DONE
+[Tentang bla2] Bold  -- DONE
+The question must different color (grey?) -- DONE
+Produk AdaKami paragraph down -- DONE
+Green separator pages deleted --DONE
+1. syarat ketentuan -- DONE
+A in header became white --DONE
+TKB smaller -- DONE
+telepon email alamat deleted -- DONE
+copyright Not Appear --DONE
+Tag Line Number 1 : Pinjaman diujung jari, memajukan bangsa --DONE
+Jadwal Acara not appear in the middle if clicked -- DONE
+Photo Resolution need to be equal resolution -- DONE --> After revision will be 800x599
+Footer BLOG must same with Index --DONE
+
+====================================================================================
+Rev-002 -- 12/11/2019 -- 
+====================================================================================
+OJK AFPI GPlay not in position --> DONE
+Syarat - Ketentuan changed to Disclaimer Resiko -- DONE
+Jadwal acara in Main Menu Changed to Statistik  -- DONE
+Statistik Moved a little bit -- DONE
+Tim Manajemen Adakami --> AdaKami deleted -- DONE
+Jadwal Acara Adakami --> AdaKami deleted -- DONE
+Jadwal Acara Adakami --> Text Width 600 -- Not Maximal --> still an issue.
+
+====================================================================================
+Rev-003 -- 30/12/2019 -- 
+====================================================================================
+Menu simplified to HOME | PRODUCT | BLOG | ABOUT | CONTACT US | FAQ
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Home Page : 	> Main Banner 3-4 Rotate Banner
+		> Statistic
+		> Testimonial 5 --> Click Go to Testimonial Page
+		> Partner
+		> Disclaimer Resiko
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Product Page : 	> 1 Banner
+		> Installment Article
+		> Pay Day Loan Article
+		> Testimony 5 --> Click Go to Testimonial Page
+		> Disclaimer Resiko
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BLOG Page : Still using the same Blog Page, but all the content come from WordPress
+Blog divided by 3 :
+		> Oncoming Event
+		> Internal Event
+		> External Event
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+About Page : 	> 1 Banner
+		> Siapa Adakami
+		> Visi & Misi
+		> Management Team Photo
+		> Disclaimer Resiko
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Contact Page : 	> 1 Banner
+		> Jadwal Layanan Adakami
+		> Article Contact BD
+		> Article Contact Marketing
+		> Disclaimer Resiko
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+FAQ
